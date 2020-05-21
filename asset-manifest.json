@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/learning-redux/static/css/main.5f361e03.chunk.css",
-    "main.js": "/learning-redux/static/js/main.17e2b4a2.chunk.js",
-    "main.js.map": "/learning-redux/static/js/main.17e2b4a2.chunk.js.map",
+    "main.js": "/learning-redux/static/js/main.79e4b991.chunk.js",
+    "main.js.map": "/learning-redux/static/js/main.79e4b991.chunk.js.map",
     "runtime-main.js": "/learning-redux/static/js/runtime-main.28aa2dc5.js",
     "runtime-main.js.map": "/learning-redux/static/js/runtime-main.28aa2dc5.js.map",
     "static/js/2.52dcff06.chunk.js": "/learning-redux/static/js/2.52dcff06.chunk.js",
     "static/js/2.52dcff06.chunk.js.map": "/learning-redux/static/js/2.52dcff06.chunk.js.map",
     "index.html": "/learning-redux/index.html",
-    "precache-manifest.570fac975c120b33f994928627f6a1f5.js": "/learning-redux/precache-manifest.570fac975c120b33f994928627f6a1f5.js",
+    "precache-manifest.1c2ba52af0c5764aea203fddb30570be.js": "/learning-redux/precache-manifest.1c2ba52af0c5764aea203fddb30570be.js",
     "service-worker.js": "/learning-redux/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/learning-redux/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.52dcff06.chunk.js.LICENSE.txt": "/learning-redux/static/js/2.52dcff06.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.28aa2dc5.js",
     "static/js/2.52dcff06.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.17e2b4a2.chunk.js"
+    "static/js/main.79e4b991.chunk.js"
   ]
 }

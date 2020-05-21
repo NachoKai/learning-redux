@@ -12,6 +12,10 @@ html {
   pointer-events: none;
 }
 
+.pass-msg {
+  font-size: 0.8rem;
+}
+
 .btn-login {
   padding: 5px 10px;
   border-radius: 0.5rem;

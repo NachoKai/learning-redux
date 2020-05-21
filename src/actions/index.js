@@ -16,3 +16,9 @@ export const custom = number => {
     payload: number,
   };
 };
+
+export const login = () => {
+  return {
+    type: 'LOGIN',
+  };
+};

@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { useSelector, useDispatch } from 'react-redux';
-import { increment, decrement, custom } from './actions';
+import { increment, decrement, custom, login } from './actions';
 
 function App() {
   const counter = useSelector(state => state.counter);
@@ -10,7 +10,14 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Hello Redux</h1>
+      <h1>
+        Hello Redux{' '}
+        <img
+          className='logo'
+          alt='logo'
+          src='https://cdn.worldvectorlogo.com/logos/redux.svg'
+        />
+      </h1>
       <h3>Counter {counter}</h3>
       <button onClick={() => dispatch(custom(-50))}>-50</button>
       <button onClick={() => dispatch(decrement())}>-</button>
@@ -18,7 +25,7 @@ function App() {
       <button onClick={() => dispatch(custom(50))}>+50</button>
       <h3>Secret Information:</h3>
       {isLogged ? (
-        <h3>
+        <h3 className='reveal'>
           Revealed!
           <span role='img' aria-label='Opened Lock'>
             🔓
@@ -29,6 +36,11 @@ function App() {
           🔒
         </span>
       )}
+      <p>
+        <button onClick={() => dispatch(login())} className='btn-login'>
+          Log in
+        </button>
+      </p>
     </div>
   );
 }

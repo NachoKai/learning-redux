@@ -9,3 +9,10 @@ export const decrement = () => {
     type: 'DECREMENT',
   };
 };
+
+export const custom = number => {
+  return {
+    type: 'CUSTOM',
+    payload: number,
+  };
+};

@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/learning-redux/static/css/main.7c3e330f.chunk.css",
-    "main.js": "/learning-redux/static/js/main.575bfa37.chunk.js",
-    "main.js.map": "/learning-redux/static/js/main.575bfa37.chunk.js.map",
+    "main.css": "/learning-redux/static/css/main.ee0fc82f.chunk.css",
+    "main.js": "/learning-redux/static/js/main.1bfc69f9.chunk.js",
+    "main.js.map": "/learning-redux/static/js/main.1bfc69f9.chunk.js.map",
     "runtime-main.js": "/learning-redux/static/js/runtime-main.28aa2dc5.js",
     "runtime-main.js.map": "/learning-redux/static/js/runtime-main.28aa2dc5.js.map",
     "static/js/2.52dcff06.chunk.js": "/learning-redux/static/js/2.52dcff06.chunk.js",
     "static/js/2.52dcff06.chunk.js.map": "/learning-redux/static/js/2.52dcff06.chunk.js.map",
     "index.html": "/learning-redux/index.html",
-    "precache-manifest.30a81c4c5781f0e8ddf530594595efbc.js": "/learning-redux/precache-manifest.30a81c4c5781f0e8ddf530594595efbc.js",
+    "precache-manifest.caf81dc5ca1204fb14c012f6be1e98e4.js": "/learning-redux/precache-manifest.caf81dc5ca1204fb14c012f6be1e98e4.js",
     "service-worker.js": "/learning-redux/service-worker.js",
-    "static/css/main.7c3e330f.chunk.css.map": "/learning-redux/static/css/main.7c3e330f.chunk.css.map",
+    "static/css/main.ee0fc82f.chunk.css.map": "/learning-redux/static/css/main.ee0fc82f.chunk.css.map",
     "static/js/2.52dcff06.chunk.js.LICENSE.txt": "/learning-redux/static/js/2.52dcff06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.28aa2dc5.js",
     "static/js/2.52dcff06.chunk.js",
-    "static/css/main.7c3e330f.chunk.css",
-    "static/js/main.575bfa37.chunk.js"
+    "static/css/main.ee0fc82f.chunk.css",
+    "static/js/main.1bfc69f9.chunk.js"
   ]
 }

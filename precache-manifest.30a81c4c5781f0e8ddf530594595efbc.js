@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44132141fba28e0483e25d31a9db5f73",
+    "revision": "7997373b1e763afbd93d421ea0e40983",
     "url": "/learning-redux/index.html"
   },
   {
-    "revision": "f33570efc6a23a3c42fd",
-    "url": "/learning-redux/static/css/main.5f361e03.chunk.css"
+    "revision": "114afa7e687f0a664ed8",
+    "url": "/learning-redux/static/css/main.7c3e330f.chunk.css"
   },
   {
     "revision": "924e59103f008aad58a9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learning-redux/static/js/2.52dcff06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f33570efc6a23a3c42fd",
-    "url": "/learning-redux/static/js/main.79e4b991.chunk.js"
+    "revision": "114afa7e687f0a664ed8",
+    "url": "/learning-redux/static/js/main.575bfa37.chunk.js"
   },
   {
     "revision": "584e19a34a3573d937ee",

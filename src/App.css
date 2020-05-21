@@ -18,6 +18,15 @@ html {
   font-weight: bold;
 }
 
+button {
+  padding: 0.4rem;
+  margin: 0 4px;
+  min-width: 40px;
+  border-radius: 0.5rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
 button:hover {
   cursor: pointer;
 }

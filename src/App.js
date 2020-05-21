@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>
+      <h1 className='title'>
         Hello Redux{' '}
         <img
           className='logo'
@@ -37,8 +37,14 @@ function App() {
         </span>
       )}
       <p>
+        <input type='password' className='password' />
+      </p>
+      <p>
         <button onClick={() => dispatch(login())} className='btn-login'>
-          Log in
+          Log in{' '}
+          <span role='img' aria-label='Key'>
+            🔑
+          </span>
         </button>
       </p>
     </div>

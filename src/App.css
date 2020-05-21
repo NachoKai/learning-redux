@@ -18,17 +18,31 @@ html {
   font-weight: bold;
 }
 
-.btn-login:hover {
+button:hover {
   cursor: pointer;
 }
 
+.title {
+  color: #764abc;
+  font-weight: 900;
+}
+
 .reveal {
-  background-color: #eee;
-  color: #222;
+  background-color: #764abc;
+  color: #eee;
   padding: 1rem;
   width: 100px;
   margin: 0 auto;
   border-radius: 1rem;
+  border: 2px solid #eee;
+}
+
+.password {
+  background-color: #764abc;
+  color: #eee;
+  border-radius: 0.5rem;
+  border: none;
+  padding: 0.2rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
